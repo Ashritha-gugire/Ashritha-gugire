@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ashritha Gugire</h1>
-<h3 align="center">I'm a Data Analyst who finds joy in uncovering stories hidden within numbers. Think of me as a data detective who loves turning complex information into visual masterpieces! 📈</h3>
-<img align="right" alt="Coding" width="400"  src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExanZ2MmtlOTllYW9kZTc5OHB6OThjMjNzYXd2MWR3YzJucDU0MGc2aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hpXdHPfFI5wTABdDx9/giphy.gif"></img>
+<h3 align="center">I'm a Data Analyst who finds joy in uncovering stories in data and loves turning complex information into visual masterpieces! 📈</h3>
+<img align="right" alt="Coding" width="400"  src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExanZ2MmtlOTllYW9kZTc5OHB6OThjMjNzYXd2MWR3YzJucDU0MGc2aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hpXdHPfFI5wTABdDx9/giphy.gif"></img>
 
 
 Here are some ideas to get you started:
