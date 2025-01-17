@@ -9,7 +9,7 @@
 - 🕵️‍♂️ Think of me as a data detective—ask me how I turn raw data into powerful visual stories.  
 - 📊 I specialize in spotting hidden patterns and trends in complex datasets.  
 - 🎨 I craft data-driven stories that are easy to understand and impossible to ignore.  
-- 🍛 Big fan of Indian food—let’s talk data over some biryani!  
+- 🍛 Big fan of Indian food 
 - 📬 Want to connect? Reach me at [LinkedIn](https://www.linkedin.com/in/agugire/)
 
 ### Fun Fact:
