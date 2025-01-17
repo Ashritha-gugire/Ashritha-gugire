@@ -10,7 +10,7 @@
 - 📊 I specialize in spotting hidden patterns and trends in complex datasets.  
 - 🎨 I craft data-driven stories that are easy to understand and impossible to ignore.  
 - 🍛 Big fan of Indian food—let’s talk data over some biryani!  
-- 📬 Want to connect? Reach me at [https://www.linkedin.com/in/agugire/] LinkedIn
+- 📬 Want to connect? Reach me at [LinkedIn](https://www.linkedin.com/in/agugire/)
 
 ### Fun Fact:
 If life were a dashboard, I'd be the tooltip helping you understand the story behind each data point! 😄
