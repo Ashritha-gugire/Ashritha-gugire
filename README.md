@@ -1,6 +1,6 @@
 <h1 align="center">Welcome 👋, I'm Ashritha Gugire</h1>
 <h3 align="center">I'm a Data Analyst who finds joy in uncovering stories in data and loves turning complex information into visual masterpieces! 📈</h3>
-<img align="right" alt="Coding" width="400" height="300" src="![image](https://github.com/user-attachments/assets/9ee94cd7-6ea2-47ff-aef3-1f21bf196a13)
+<img align="right" alt="Coding" width="400" height="300" src="![image](https://github.com/user-attachments/assets/9ee94cd7-6ea2-47ff-aef3-1f21bf196a13)"
 ">
 
 
